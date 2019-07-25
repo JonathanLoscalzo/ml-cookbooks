@@ -3,4 +3,5 @@ dask
 numpy
 toolz
 graphviz
+shap
 
